@@ -43,6 +43,4 @@ Computer Science student exploring software engineering and data-driven applicat
 ---
 
 ## 📫 Let’s Connect
-- GitHub: https://github.com/winter12-2
-
-⭐ Feel free to explore my repositories and projects!
+- https://www.linkedin.com/in/sri-suvetha-meenaa-subramanian-b028a4319/
