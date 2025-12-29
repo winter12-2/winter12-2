@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Sri Suvetha Meenaa Subramanian
 
-<!--
-**winter12-2/winter12-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student exploring software engineering and data-driven applications, with a strong interest in building practical, real-world solutions. Preparing for **2026 internship opportunities**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+### 💻 Programming Languages
+- Java, Python (Pandas, NumPy)
+- C, C++
+
+### 🌐 Web & Application Development
+- HTML, CSS, JavaScript
+- React, Node.js
+- RESTful APIs
+
+### 🧠 AI & Data Tools
+- OpenAI API, LangChain
+- Gemini API, Ollama
+
+### 🗄️ Databases & Cloud
+- SQL (MySQL, PostgreSQL)
+- MongoDB
+- AWS (Basics), Docker
+
+### 🛠️ Developer Tools
+- Git, GitHub
+- Visual Studio / VS Code
+- MATLAB
+
+### 🖥️ Operating Systems
+- Linux (Ubuntu), Windows
+
+---
+
+## 🌱 Currently Focusing On
+- Data structures & problem solving
+- Building strong, project-backed fundamentals
+- Exploring AI-powered applications
+- Preparing for **2026 internship recruitment cycles**
+
+---
+
+## 📫 Let’s Connect
+- GitHub: https://github.com/winter12-2
+
+⭐ Feel free to explore my repositories and projects!
